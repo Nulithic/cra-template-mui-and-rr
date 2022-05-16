@@ -16,7 +16,7 @@
   },
   "license": "MIT",
   "engines": {
-    "node": ">=16"
+    "node": ">=14"
   },
   "bugs": {
     "url": "https://github.com/Nulithic/cra-template-mui-and-rr/issues"
