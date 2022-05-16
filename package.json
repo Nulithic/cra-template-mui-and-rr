@@ -12,14 +12,14 @@
   "description": "Barebones CRA template with Mui and React Router",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Nulithic/cra-template-mui-and-rr.git"
+    "url": "https://github.com/Nulithic/cra-template-mui-rr.git"
   },
   "license": "MIT",
   "engines": {
     "node": ">=14"
   },
   "bugs": {
-    "url": "https://github.com/Nulithic/cra-template-mui-and-rr/issues"
+    "url": "https://github.com/Nulithic/cra-template-mui-rr/issues"
   },
   "files": [
     "template",
