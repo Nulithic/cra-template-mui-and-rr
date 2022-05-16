@@ -1,0 +1,29 @@
+{
+  "name": "knowledge_base_v2",
+  "version": "1.0.0",
+  "keywords": [
+    "mui",
+    "material-ui",
+    "react-router",
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "Barebones CRA template with Mui and React Router",
+  "repository": {
+    "type": "git",
+    "url": "",
+    "directory": ""
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
